@@ -1,7 +1,7 @@
 {
-  "name": "@codemirror/theme-one-dark",
-  "version": "6.0.0",
-  "description": "One Dark theme for the CodeMirror code editor",
+  "name": "theme-gruvbox-hdark",
+  "version": "1.0.0",
+  "description": "gruvbox dark theme for the CodeMirror code editor",
   "scripts": {
     "test": "cm-runtests",
     "prepare": "cm-buildhelper src/one-dark.ts"
@@ -11,9 +11,9 @@
     "code"
   ],
   "author": {
-    "name": "Marijn Haverbeke",
-    "email": "marijnh@gmail.com",
-    "url": "http://marijnhaverbeke.nl"
+    "name": "Camilo Davila",
+    "email": "camilodavina@gmail.com",
+    "url": "http://godemperordoom.netlify.com"
   },
   "type": "module",
   "main": "dist/index.cjs",
@@ -36,6 +36,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/codemirror/theme-one-dark.git"
+    "url": "https://github.com/CMOISDEAD/theme-gruvbox-dark"
   }
 }
